@@ -43,8 +43,9 @@ export const data = [
   },
   {
     id: 8,
-    artist: "Cyndi Lauper",
-    song: "Time After Time",
+    artist: "Imagine Dragons",
+    song: "Shot(Broiler Remix)",
     img: "https://picsum.photos/200/200",
   }
-];
+  
+]

@@ -9,7 +9,7 @@
 .playlist .item {
     justify-content: space-between;
     margin: 1rem 0;
-    background-color: #00000075;
+    background-color: #dbeb8c75;
     padding-right: 2rem;
     cursor: pointer;
 }
